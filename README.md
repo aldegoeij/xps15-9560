@@ -10,3 +10,5 @@ Add the following to `/etc/defaults/grub` and run `sudo update-grub`:
 GRUB_GFXMODE=1920x1080,1024x720,auto
 GRUB_GFXPAYLOAD_LINUX=keep
 ```
+(thanks to: https://wiki.archlinux.org/index.php/GRUB/Tips_and_tricks#Setting_the_framebuffer_resolution)
+
